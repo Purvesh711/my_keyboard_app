@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyKeyboardApp</string>
+    <string name="temp_hint">Temporary message</string>
+    <string name="send">Send</string>
+</resources>
